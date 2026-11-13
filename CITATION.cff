@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Logarithmic Laplacian: semilinear equations, Lipschitz boundaries and nonexistence in star-shaped domains"
+authors:
+  - family-names: "Chekmachev"
+    given-names: "Vadim"
+    orcid: "https://orcid.org/0009-0009-2982-0532"
+version: "1.0"
+doi: "10.5281/zenodo.24199751"
+url: "https://doi.org/10.5281/zenodo.24199751"
+license-url: "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html"
+message: "When using this paper, cite it by its DOI."
+repository-code: "https://github.com/coelto/log-lap-non-smooth"
