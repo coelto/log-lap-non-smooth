@@ -25,7 +25,7 @@ Each version of the paper is a separate version of a single Zenodo record with i
 
 | Version | Publication date | DOI |
 |---|---|---|
-| 1.0 (this version) | — | [10.5281/zenodo.24199752](https://doi.org/10.5281/zenodo.24199752) |
+| 1.0 (this version) | 2026-11-13 | [10.5281/zenodo.24199752](https://doi.org/10.5281/zenodo.24199752) |
 
 ## Verification
 
