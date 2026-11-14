@@ -17,7 +17,9 @@ The repository contains the PDF of the paper, a list of checksums `SHA256SUMS` a
 | File | Size, bytes | SHA-256 | MD5 |
 |---|---|---|---|
 | `chekmachev-logarithmic-laplacian-lipschitz-domains.pdf` | 935142 | `57cb944addbcd7682b1e7b9272ca22a29d65538ce49d24ce57209d04794ed086` | `ccea57aec1a3824708ff5524492bd2eb` |
-| `chekmachev-logarithmic-laplacian-lipschitz-domains.pdf.ots` | 735 | `f076b5b6e1670c330ea8dda59b4ddce37690d51b13fce6acc06ae6bb7a279296` | `7ccb400f563d5d4344cce2e0b8fb311b` |
+| `chekmachev-logarithmic-laplacian-lipschitz-domains.pdf.ots` | 3700 | `e8d6f69cf001f0ed6fad7b2ee5df4c1ddf4ffa55a4c16eb7ed4d112f008e1ba3` | `9be9f238501ab470af818b3dd7164396` |
+
+OpenTimestamps time (UTC): 2026-11-13 23:05:03.
 
 ## Version history
 
